@@ -15,3 +15,6 @@ This will start the development server and open the app in your default web brow
 ## How to Use
 To search for the definition of a word, simply type the word in the search box and press the Enter key or click on the "Search" button. The app will make a request to the Free Dictionary API and display the definition of the word on the screen. You can search for as many words as you want.
 
+## Limitations
+This app is limited to searching for English words only, and it may not return accurate or complete definitions for some complex or technical terms. The Free Dictionary API used by this app has usage limits, so you may encounter rate limiting or request failures if you make too many requests in a short period of time.
+
