@@ -29,3 +29,7 @@ If you would like to contribute to the development of this app, feel free to for
 ## License
 This app is licensed under the MIT License. You are free to use, modify, and distribute this app for any purpose. See the LICENSE file for more details.
 
+## Acknowledgements
+Free Dictionary API
+React Documentation
+
