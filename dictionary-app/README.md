@@ -7,3 +7,8 @@ Once you have the source code on your machine, open a terminal window in the roo
 npm install
 
 After the dependencies are installed, you can start the development server by running:
+
+npm start
+
+This will start the development server and open the app in your default web browser at http://localhost:3000. You can now search for English words and get their definitions.
+
