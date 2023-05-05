@@ -26,3 +26,6 @@ https://vercel.com/signup
 ## Contributing
 If you would like to contribute to the development of this app, feel free to fork the repository and submit a pull request with your changes. Please ensure that your changes are well-documented and do not introduce any new bugs.
 
+## License
+This app is licensed under the MIT License. You are free to use, modify, and distribute this app for any purpose. See the LICENSE file for more details.
+
