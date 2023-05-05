@@ -1,12 +1,20 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App] 
+
+## The Free Api Bellow Was Used 
+
+https://dictionaryapi.dev/
+
+https://api.dictionaryapi.dev/api/v2/entries/en/<word>
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### 
+'npm install'
+ `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -27,7 +35,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment
+
+We used vercel to deploy the above dictionary app project
+(https://vercel.com) for more information on deployment.
 
 ### `npm run eject`
 
