@@ -18,3 +18,8 @@ To search for the definition of a word, simply type the word in the search box a
 ## Limitations
 This app is limited to searching for English words only, and it may not return accurate or complete definitions for some complex or technical terms. The Free Dictionary API used by this app has usage limits, so you may encounter rate limiting or request failures if you make too many requests in a short period of time.
 
+## Deployment
+The app was daployed using versel here is the link on the deployment site that is user friendly and easy to use.
+
+https://vercel.com/signup
+
