@@ -23,3 +23,6 @@ The app was daployed using versel here is the link on the deployment site that i
 
 https://vercel.com/signup
 
+## Contributing
+If you would like to contribute to the development of this app, feel free to fork the repository and submit a pull request with your changes. Please ensure that your changes are well-documented and do not introduce any new bugs.
+
