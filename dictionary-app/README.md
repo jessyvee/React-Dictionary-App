@@ -12,3 +12,6 @@ npm start
 
 This will start the development server and open the app in your default web browser at http://localhost:3000. You can now search for English words and get their definitions.
 
+## How to Use
+To search for the definition of a word, simply type the word in the search box and press the Enter key or click on the "Search" button. The app will make a request to the Free Dictionary API and display the definition of the word on the screen. You can search for as many words as you want.
+
